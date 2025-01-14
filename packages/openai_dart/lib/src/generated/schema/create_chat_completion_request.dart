@@ -412,6 +412,14 @@ enum ChatCompletionModels {
   gpt35Turbo0613,
   @JsonValue('gpt-3.5-turbo-1106')
   gpt35Turbo1106,
+  @JsonValue('llama-3.1-sonar-small-128k-online')
+  llama31SonarSmall128kOnline,
+  @JsonValue('llama-3.1-sonar-large-128k-online')
+  llama31SonarLarge128kOnline,
+  @JsonValue('llama-3.1-sonar-huge-128k-online')
+  llama31SonarHuge128kOnline,
+  @JsonValue('o1')
+  o1,
   @JsonValue('o1-mini')
   o1Mini,
   @JsonValue('o1-mini-2024-09-12')
