@@ -209,10 +209,6 @@ enum AssistantModels {
   sonarPro,
   @JsonValue('sonar')
   sonar,
-  @JsonValue('sonar-pro')
-  sonarPro,
-  @JsonValue('sonar')
-  sonar,
   @JsonValue('llama-3.1-sonar-small-128k-online')
   llama31SonarSmall128kOnline,
   @JsonValue('llama-3.1-sonar-large-128k-online')
