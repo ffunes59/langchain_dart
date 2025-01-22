@@ -455,6 +455,8 @@ const _$ChatCompletionModelsEnumMap = {
   ChatCompletionModels.gpt35Turbo0301: 'gpt-3.5-turbo-0301',
   ChatCompletionModels.gpt35Turbo0613: 'gpt-3.5-turbo-0613',
   ChatCompletionModels.gpt35Turbo1106: 'gpt-3.5-turbo-1106',
+  ChatCompletionModels.sonarPro: 'sonar-pro',
+  ChatCompletionModels.sonar: 'sonar',
   ChatCompletionModels.llama31SonarSmall128kOnline:
       'llama-3.1-sonar-small-128k-online',
   ChatCompletionModels.llama31SonarLarge128kOnline:
@@ -2404,6 +2406,8 @@ const _$AssistantModelsEnumMap = {
   AssistantModels.gpt35Turbo0125: 'gpt-3.5-turbo-0125',
   AssistantModels.gpt35Turbo0613: 'gpt-3.5-turbo-0613',
   AssistantModels.gpt35Turbo1106: 'gpt-3.5-turbo-1106',
+  AssistantModels.sonarPro: 'sonar-pro',
+  AssistantModels.sonar: 'sonar',
   AssistantModels.llama31SonarSmall128kOnline:
       'llama-3.1-sonar-small-128k-online',
   AssistantModels.llama31SonarLarge128kOnline:
@@ -3027,6 +3031,8 @@ const _$RunModelsEnumMap = {
   RunModels.gpt35Turbo0125: 'gpt-3.5-turbo-0125',
   RunModels.gpt35Turbo0613: 'gpt-3.5-turbo-0613',
   RunModels.gpt35Turbo1106: 'gpt-3.5-turbo-1106',
+  RunModels.sonarPro: 'sonar-pro',
+  RunModels.sonar: 'sonar',
   RunModels.llama31SonarSmall128kOnline: 'llama-3.1-sonar-small-128k-online',
   RunModels.llama31SonarLarge128kOnline: 'llama-3.1-sonar-large-128k-online',
   RunModels.llama31SonarHuge128kOnline: 'llama-3.1-sonar-huge-128k-online',
@@ -3327,6 +3333,8 @@ const _$ThreadAndRunModelsEnumMap = {
   ThreadAndRunModels.gpt35Turbo0125: 'gpt-3.5-turbo-0125',
   ThreadAndRunModels.gpt35Turbo0613: 'gpt-3.5-turbo-0613',
   ThreadAndRunModels.gpt35Turbo1106: 'gpt-3.5-turbo-1106',
+  ThreadAndRunModels.sonarPro: 'sonar-pro',
+  ThreadAndRunModels.sonar: 'sonar',
   ThreadAndRunModels.llama31SonarSmall128kOnline:
       'llama-3.1-sonar-small-128k-online',
   ThreadAndRunModels.llama31SonarLarge128kOnline:
